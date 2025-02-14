@@ -1,0 +1,7 @@
+<html>
+<body>
+<form name="form1" method="post" action="">
+<h4>
+<font size=20 color=green>Bio Data Mahasiswa</font><br>
+<pre>
+Nama <input type="text" name="nama" size="25" maxlength="40"><br>
